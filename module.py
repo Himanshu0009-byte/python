@@ -6,5 +6,5 @@ print(joke)
 # here  pyjokes is a module which is written by  someone and it is insttalled with the help of pip which is a package manager
 
 #multiline comments 
-"""here there are two type of comments in which multi line comments is used
+"""here there are two type of comments in which multi line comments is usedP
 awjere triple quotes is used"""
